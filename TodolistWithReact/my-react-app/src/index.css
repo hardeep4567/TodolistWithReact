@@ -1,0 +1,288 @@
+#log{
+  background-color: rgba(248, 191, 98, 1);
+ }
+ .home-div{
+  background-image: url("../src/assets/img/Clip-path.png");
+  background-size: cover;
+ }
+
+ .team{
+  background-image: url("../src/assets//img/Frame16.png");
+  background-size: cover;
+ }
+ .live-score{
+  background-image: url("../src/assets/img/Frame\ \(13\).png");
+  background-size: cover;
+ }
+ .slide{
+  margin-top: 50px;
+  margin-bottom: 88px;
+ }
+ h1{
+  font-size: 50px;
+  color: #FFBB4D;
+ }
+.slide{
+ top: -70px;
+ left: 80px;
+
+}
+.slick-dots {
+
+position: absolute;
+/* top: 100px; */
+/* background: white; */
+bottom: 30px;
+font-weight: 900;
+
+}
+
+.slick-dots li button::before{
+  color: aliceblue !important;
+  font-size: 10px !important;
+  
+}
+
+h2{
+  font-size: 50px;
+  color: #FFBB4D;
+ }
+
+
+.second-div{
+  background-image: url(../src/assets/img/Frame1.png);
+  background-size: cover;
+}
+.img-team{
+   bottom: 70px;
+   right: 120px;
+}
+.score{
+  margin-bottom: 250px;
+}
+
+
+
+@media screen and (max-width:280px) {
+  h1{
+    font-size: 10px;
+  }
+  h2{
+    font-size: 10px;
+  }
+
+  .img-team{
+    top: 0px;
+    right: 50px}
+
+.owl-carousel{
+    bottom: 0px;
+    left: 50px;} 
+
+  
+}
+.world-wide{
+
+  background-image: url("../src/assets/img/Frame1.png");
+  background-size: cover;
+
+}
+
+
+.message{
+  background-image: url("../src/assets/img/Frame\ \(14\).png");
+  background-size: cover;
+}
+.last-btn{
+  margin-bottom: 100px;
+}
+
+.msg{
+  width: 472px;
+  padding-bottom: 200px;
+  padding-left: 5px;
+
+}
+.foot{
+   background: linear-gradient(90deg, #B27F2C 0%, #B78630 6%, #C4993B 14%, #DAB84D 24%, #F4DD62 33%, #F4E38B 52%, #F4DD62 66%, #B27F2C 100%);
+   padding: 8px 8px;
+}
+
+p{
+  color: #FFBB4D;
+}
+#inp{
+  background-color: rgba(128, 128, 128, 0.274);
+  border: none;
+}
+
+.LAST{
+  width: 300px;
+  padding: 10px 10px;
+  border-bottom: 3px solid white;
+
+}
+.Log{
+ padding-left: 30px ;
+ padding-right: 30px;
+ border-bottom: 3px solid white;
+ margin: none;
+}
+
+
+.Sign{
+  padding-left: 30px ;
+  padding-right: 30px;
+  background-color:grey;
+  color: white;
+  border: none;
+  margin: 0;
+ }
+ .Tour{
+  padding: 10px 10px;
+  width: 200px;
+  border-bottom: 3px solid white;
+ }
+ .TEAM{
+  padding: 10px 10px;
+  width: 300px;
+  border-bottom: 2px solid white;
+ }
+ .START{
+  padding: 10px 10px;
+ }
+ @media only screen and (max-width: 290px) {
+  .img-team{
+     top: 0px;
+     right: 50px}
+
+ .owl-carousel{
+     top: 10px;
+     left: 50px;} 
+}
+
+@media only screen and (max-width:578px) {
+ .img-team{
+     top: 0px;
+     right: 50px}
+ }
+ .sliding{
+  width: 75%;
+ }
+
+ @media only screen and (max-width: 350px) {
+
+h2{
+
+  font-size: 15px;
+}
+
+
+
+ }
+
+
+
+ .childelm{
+
+  text-align: center;
+  border: 1px solid black;
+  width: 200px;
+
+ }
+
+ .parentelm{
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+ }
+  .count{
+    display: flex;
+     gap: 90px;
+     justify-self: center;
+  }
+  .count1{
+    text-align: center;
+    border: 5px solid black;
+    padding: 10px 10px;
+    width: 50%;
+  }
+  .counter{
+    display: flex;
+    justify-content: center;
+
+  }
+
+
+  .lister{
+    list-style: none;
+  }
+  .todohead{
+
+    color: rgb(119, 202, 119);
+    font-style: italic;
+    font-family: cursive;
+}
+.list-div{
+  background-color: rgb(206, 74, 206);
+}
+
+body{
+  background-color: blueviolet;
+}
+
+button{
+  background-color: blueviolet;
+}
+i{
+  font-size: 27px;
+}
+
+.tasker{
+  background-color: rgb(59, 13, 59);
+
+}
+
+#nopage{
+  color: black;
+  font-size: 100px;
+  
+}
+.logpage{
+
+display: flex;
+justify-content: center;
+
+}
+.comp1{
+  background-image: url('../src/assets/img/image.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.First{
+  background: rgba(230, 95, 95, 1);
+  border: none;
+}
+.hero{
+
+margin-top: 150px;
+margin-bottom: 89px;
+  
+}
+.mars{
+font-size: 78px;
+
+}
+.comp2{
+  background-image: url("../src/assets/img/#8.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.marg{
+
+  margin-top: 150px;
+} 
+
+.ven{
+  margin-top: 100px;
+}
